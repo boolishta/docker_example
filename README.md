@@ -2,8 +2,7 @@
 
 landing page on nginx
 
-build Docker:
-
+build Docker:<br/>
 docker build -t <name> .
   
 run container:
